@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- -🌱 I’m currently learning Basic science
+ -🌱 I’m currently learning Basic science and new at programming
  -😄 Pronouns: he/him
 
 
