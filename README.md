@@ -2,7 +2,6 @@
 
 
  -🌱 I’m currently learning Basic science
- -👯 I’m looking to join DSC ITB
  -😄 Pronouns: he/him
 
 
